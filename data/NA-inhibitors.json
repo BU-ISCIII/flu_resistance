@@ -1,0 +1,3323 @@
+[
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "S110F"
+        ],
+        "N2": [
+            "110"
+        ],
+        "oseltamivir_resistance_level": "RI (10)",
+        "zanamivir_resistance_level": "RI (17-18)",
+        "peramivir_resistance_level": "?e",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(1,",
+            "2)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I117R"
+        ],
+        "N2": [
+            "117"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "RI (10)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "E119A"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (8-17)",
+        "zanamivir_resistance_level": "RI (58-90)",
+        "peramivir_resistance_level": "NI/RI (7-12)",
+        "laninavir_resistance_level": "RI (82)",
+        "references": [
+            "(4,",
+            "5)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "E119D"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI (25-94)",
+        "zanamivir_resistance_level": "HRI (583-2731)",
+        "peramivir_resistance_level": "HRI (104-402)",
+        "laninavir_resistance_level": "HRI (649-702)",
+        "references": [
+            "(5-7)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "E119G"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "NI (1-7)",
+        "zanamivir_resistance_level": "HRI (113-1306)",
+        "peramivir_resistance_level": "RI/HRI (51-167)",
+        "laninavir_resistance_level": "HRI (112-327)",
+        "references": [
+            "(5,",
+            "7-9)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "E119V"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI (60)",
+        "zanamivir_resistance_level": "HRI (571)",
+        "peramivir_resistance_level": "RI (25)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(8)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "Q136K"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "HRI (86-749)",
+        "peramivir_resistance_level": "HRI (143)",
+        "laninavir_resistance_level": "RI (42-45)",
+        "references": [
+            "(4,",
+            "10,",
+            "11)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "Q136R"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "HRI (200)",
+        "peramivir_resistance_level": "HRI (234)",
+        "laninavir_resistance_level": "RI (33)",
+        "references": [
+            "(12)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "R152K"
+        ],
+        "N2": [
+            "152"
+        ],
+        "oseltamivir_resistance_level": "RI (18-43)",
+        "zanamivir_resistance_level": "NI/RI (4-12)",
+        "peramivir_resistance_level": "NI (4-7)",
+        "laninavir_resistance_level": "RI (16)",
+        "references": [
+            "(5,",
+            "7)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "D199E"
+        ],
+        "N2": [
+            "198"
+        ],
+        "oseltamivir_resistance_level": "RI (16-26)",
+        "zanamivir_resistance_level": "NI (7-8)",
+        "peramivir_resistance_level": "NI (3)",
+        "laninavir_resistance_level": "NI (3)",
+        "references": [
+            "(7,",
+            "13)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "D199G"
+        ],
+        "N2": [
+            "198"
+        ],
+        "oseltamivir_resistance_level": "RI (17)",
+        "zanamivir_resistance_level": "NI (6)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(4,",
+            "8)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "D199Y"
+        ],
+        "N2": [
+            "198"
+        ],
+        "oseltamivir_resistance_level": "RI (37)",
+        "zanamivir_resistance_level": "RI (28)",
+        "peramivir_resistance_level": "NI (4)",
+        "laninavir_resistance_level": "NI (7)",
+        "references": [
+            "(14)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I223K"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "RI (12\u201339)",
+        "zanamivir_resistance_level": "NI (5\u20136)",
+        "peramivir_resistance_level": "NI (1\u20134)",
+        "laninavir_resistance_level": "NI (4)",
+        "references": [
+            "(13,",
+            "15,",
+            "16)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I223L"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "RI (11)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(17)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I223R"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "RI (13\u201345)",
+        "zanamivir_resistance_level": "NI/RI (8\u201312)",
+        "peramivir_resistance_level": "NI (5)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(13,",
+            "16,",
+            "18-20)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I223T"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (9-15)",
+        "zanamivir_resistance_level": "NI (3)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(4)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I223V"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI (6)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(4,",
+            "8)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "S247G"
+        ],
+        "N2": [
+            "246"
+        ],
+        "oseltamivir_resistance_level": "RI (15)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(13)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "S247N"
+        ],
+        "N2": [
+            "246"
+        ],
+        "oseltamivir_resistance_level": "NI (4\u20138)",
+        "zanamivir_resistance_level": "NI (2\u20135)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(21)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "S247R"
+        ],
+        "N2": [
+            "246"
+        ],
+        "oseltamivir_resistance_level": "RI (36-37)",
+        "zanamivir_resistance_level": "RI (51-54)",
+        "peramivir_resistance_level": "RI/HRI (94-115)",
+        "laninavir_resistance_level": "RI/HRI (90-122)",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "H275Y"
+        ],
+        "N2": [
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (221\u20131637)",
+        "zanamivir_resistance_level": "NI (1\u20136)",
+        "peramivir_resistance_level": "RI/HRI (50\u2013751)",
+        "laninavir_resistance_level": "NI (1\u20132)",
+        "references": [
+            "(22-31)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "R293K"
+        ],
+        "N2": [
+            "292"
+        ],
+        "oseltamivir_resistance_level": "RI (33)",
+        "zanamivir_resistance_level": "NI (4)",
+        "peramivir_resistance_level": "NI (8)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5,",
+            "9)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "N295S"
+        ],
+        "N2": [
+            "294"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (64-208)",
+        "zanamivir_resistance_level": "NI (2-9)",
+        "peramivir_resistance_level": "NI/RI (3-12)",
+        "laninavir_resistance_level": "NI (3)",
+        "references": [
+            "(4,",
+            "5,",
+            "8,",
+            "12)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I427T"
+        ],
+        "N2": [
+            "427"
+        ],
+        "oseltamivir_resistance_level": "RI (37)",
+        "zanamivir_resistance_level": "RI (41)",
+        "peramivir_resistance_level": "NI (6)",
+        "laninavir_resistance_level": "RI (11)",
+        "references": [
+            "(14)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I436N"
+        ],
+        "N2": [
+            "436"
+        ],
+        "oseltamivir_resistance_level": "RI (31)",
+        "zanamivir_resistance_level": "RI (71)",
+        "peramivir_resistance_level": "RI (20)",
+        "laninavir_resistance_level": "RI (19)",
+        "references": [
+            "(32)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "P458T"
+        ],
+        "N2": [
+            "459"
+        ],
+        "oseltamivir_resistance_level": "HRI (280)",
+        "zanamivir_resistance_level": "HRI (808)",
+        "peramivir_resistance_level": "HRI (148)",
+        "laninavir_resistance_level": "HRI (211)",
+        "references": [
+            "(7)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "H275Y",
+            "I436N"
+        ],
+        "N2": [
+            "274",
+            "436"
+        ],
+        "oseltamivir_resistance_level": "HRI (4811)",
+        "zanamivir_resistance_level": "RI (36)",
+        "peramivir_resistance_level": "HRI (10460)",
+        "laninavir_resistance_level": "RI (22)",
+        "references": [
+            "(32)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "D199N",
+            "H275Y"
+        ],
+        "N2": [
+            "198",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (318\u2013744)",
+        "zanamivir_resistance_level": "NI (2\u20133)",
+        "peramivir_resistance_level": "HRI (108)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(29,",
+            "33)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "G147R",
+            "H275Y"
+        ],
+        "N2": [
+            "147",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (2649)",
+        "zanamivir_resistance_level": "NI (5)",
+        "peramivir_resistance_level": "HRI (1427)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "E119A",
+            "H275Y"
+        ],
+        "N2": [
+            "119",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (1173)",
+        "zanamivir_resistance_level": "RI (56)",
+        "peramivir_resistance_level": "NI (3)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "E119D",
+            "H275Y"
+        ],
+        "N2": [
+            "119",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (790-3381)",
+        "zanamivir_resistance_level": "HRI (136-903)",
+        "peramivir_resistance_level": "HRI (5958-33333)",
+        "laninavir_resistance_level": "HRI (366)",
+        "references": [
+            "(5,",
+            "6)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "E119G",
+            "H275Y"
+        ],
+        "N2": [
+            "119",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (225-2483)",
+        "zanamivir_resistance_level": "HRI (225-1546)",
+        "peramivir_resistance_level": "HRI (3333-93433)",
+        "laninavir_resistance_level": "HRI (650)",
+        "references": [
+            "(5,",
+            "9)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I223K",
+            "H275Y"
+        ],
+        "N2": [
+            "222",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (>10822)",
+        "zanamivir_resistance_level": "RI (11)",
+        "peramivir_resistance_level": "HRI (5343)",
+        "laninavir_resistance_level": "RI (11)",
+        "references": [
+            "(25)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I223R",
+            "H275Y"
+        ],
+        "N2": [
+            "222",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (>9100)",
+        "zanamivir_resistance_level": "RI (22\u201327)",
+        "peramivir_resistance_level": "HRI (>7500)",
+        "laninavir_resistance_level": "RI (17)",
+        "references": [
+            "(15,",
+            "20,",
+            "25)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "I223V",
+            "H275Y"
+        ],
+        "N2": [
+            "222",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (1733)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "HRI (1331)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(8,",
+            "34)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "S247N",
+            "H275Y"
+        ],
+        "N2": [
+            "246",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (5880)",
+        "zanamivir_resistance_level": "NI (5)",
+        "peramivir_resistance_level": "HRI (334)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(21)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_NA": [
+            "Q313K",
+            "I427T"
+        ],
+        "N2": [
+            "313",
+            "427"
+        ],
+        "oseltamivir_resistance_level": "RI (10\u201343)",
+        "zanamivir_resistance_level": "NI/RI (3\u201320)",
+        "peramivir_resistance_level": "NI (4)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(23,",
+            "35)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "E119V"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (15/1727)",
+        "zanamivir_resistance_level": "HRI (136/2144)",
+        "peramivir_resistance_level": "HRI (5050)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(36,",
+            "37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "Q136K"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "RI/HRI (36\u2013327)",
+        "peramivir_resistance_level": "RI (75\u201380)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(23,",
+            "38)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "Y155H"
+        ],
+        "N2": [
+            "155"
+        ],
+        "oseltamivir_resistance_level": "HRI (123)",
+        "zanamivir_resistance_level": "HRI (555)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(39)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I223M"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI (8)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(40)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I223V"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI (3)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(40)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "S247G"
+        ],
+        "N2": [
+            "246"
+        ],
+        "oseltamivir_resistance_level": "NI (5)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(41)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "H275Y"
+        ],
+        "N2": [
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (321\u20132597)",
+        "zanamivir_resistance_level": "NI (1\u20132)",
+        "peramivir_resistance_level": "HRI (111\u20131095)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(23,",
+            "37,",
+            "41,",
+            "42)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "R293K"
+        ],
+        "N2": [
+            "292"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "RI (18)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "N295S"
+        ],
+        "N2": [
+            "294"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (40/197)",
+        "zanamivir_resistance_level": "NI (1/5)",
+        "peramivir_resistance_level": "RI (12)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(36,",
+            "37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I117V",
+            "E119V"
+        ],
+        "N2": [
+            "117",
+            "119"
+        ],
+        "oseltamivir_resistance_level": "NI (7)",
+        "zanamivir_resistance_level": "HRI (391)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I117M",
+            "E119V"
+        ],
+        "N2": [
+            "117",
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI (20)",
+        "zanamivir_resistance_level": "HRI (181)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I117V",
+            "H275Y"
+        ],
+        "N2": [
+            "117",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (683)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I117M",
+            "H275Y"
+        ],
+        "N2": [
+            "117",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (395)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I117V",
+            "N295S"
+        ],
+        "N2": [
+            "117",
+            "294"
+        ],
+        "oseltamivir_resistance_level": "RI (60)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I117M",
+            "N295S"
+        ],
+        "N2": [
+            "117",
+            "294"
+        ],
+        "oseltamivir_resistance_level": "RI (52)",
+        "zanamivir_resistance_level": "NI (4)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "E119V",
+            "H275Y"
+        ],
+        "N2": [
+            "119",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "RI (21)",
+        "zanamivir_resistance_level": "HRI (132)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "Q136K",
+            "D151E"
+        ],
+        "N2": [
+            "136",
+            "151"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "RI (25)",
+        "peramivir_resistance_level": "RI (18)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(23)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            ""
+        ],
+        "N2": "",
+        "oseltamivir_resistance_level": "",
+        "zanamivir_resistance_level": "",
+        "peramivir_resistance_level": "",
+        "laninavir_resistance_level": "",
+        "references": []
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "Q136K",
+            "H275Y"
+        ],
+        "N2": [
+            "136",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (198)",
+        "zanamivir_resistance_level": "RI (15)",
+        "peramivir_resistance_level": "HRI (1805)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(23)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "D151E/N",
+            "H275Y"
+        ],
+        "N2": [
+            "151",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (231\u2013799)",
+        "zanamivir_resistance_level": "NI (1\u20133)",
+        "peramivir_resistance_level": "RI/HRI (80\u2013718)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(23)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "D151G",
+            "H275Y"
+        ],
+        "N2": [
+            "151",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (1189)",
+        "zanamivir_resistance_level": "RI (14)",
+        "peramivir_resistance_level": "HRI (1161)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(23)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I223M",
+            "H275Y"
+        ],
+        "N2": [
+            "222",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (1943)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "HRI (400)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(40)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I223V",
+            "H275Y"
+        ],
+        "N2": [
+            "222",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (584/971)",
+        "zanamivir_resistance_level": "NI (1/2)",
+        "peramivir_resistance_level": "HRI (893)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37,",
+            "40)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I223V",
+            "N295S"
+        ],
+        "N2": [
+            "222",
+            "294"
+        ],
+        "oseltamivir_resistance_level": "RI (97)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "R293K",
+            "H275Y"
+        ],
+        "N2": [
+            "292",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (207)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "N295S",
+            "H275Y"
+        ],
+        "N2": [
+            "294",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (108)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "S334N",
+            "H275Y"
+        ],
+        "N2": [
+            "336",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (415)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I117V",
+            "N295S",
+            "H275Y"
+        ],
+        "N2": [
+            "117",
+            "294",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (336)",
+        "zanamivir_resistance_level": "RI (12)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I117M",
+            "N295S",
+            "H275Y"
+        ],
+        "N2": [
+            "117",
+            "294",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (121)",
+        "zanamivir_resistance_level": "RI (11)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "Q136K",
+            "D151N",
+            "H275Y"
+        ],
+        "N2": [
+            "136",
+            "151",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (356)",
+        "zanamivir_resistance_level": "NI (4)",
+        "peramivir_resistance_level": "HRI (2300)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(23)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_NA": [
+            "I223V",
+            "N295S",
+            "H275Y"
+        ],
+        "N2": [
+            "222",
+            "294",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (300)",
+        "zanamivir_resistance_level": "RI (13)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(37)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "V96A"
+        ],
+        "N2": [
+            "116"
+        ],
+        "oseltamivir_resistance_level": "RI (11\u201318)",
+        "zanamivir_resistance_level": "RI (10\u201363)",
+        "peramivir_resistance_level": "NI (4)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(43,",
+            "44)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "I97T"
+        ],
+        "N2": [
+            "117"
+        ],
+        "oseltamivir_resistance_level": "RI (19)",
+        "zanamivir_resistance_level": "RI (12)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(45)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "I97V"
+        ],
+        "N2": [
+            "117"
+        ],
+        "oseltamivir_resistance_level": "NI (5-9)",
+        "zanamivir_resistance_level": "NI (2-4)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(45-47)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "E99A"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI (10-35)",
+        "zanamivir_resistance_level": "HRI (51-1254)",
+        "peramivir_resistance_level": "NI (7)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5,",
+            "46)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "E99D"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI (87)",
+        "zanamivir_resistance_level": "HRI (132)",
+        "peramivir_resistance_level": "HRI (1436)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "E99G"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "NI (3\u20136)",
+        "zanamivir_resistance_level": "HRI (438\u20131485)",
+        "peramivir_resistance_level": "RI/HRI (12\u2013164)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5,",
+            "40)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "Q116L"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "RI (26)",
+        "zanamivir_resistance_level": "HRI (350)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(48)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "V129A"
+        ],
+        "N2": [
+            "149"
+        ],
+        "oseltamivir_resistance_level": "NI (4)",
+        "zanamivir_resistance_level": "NI (8)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(49)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "D179G"
+        ],
+        "N2": [
+            "198"
+        ],
+        "oseltamivir_resistance_level": "RI (32)",
+        "zanamivir_resistance_level": "RI (44)",
+        "peramivir_resistance_level": "NI (4)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(40)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "I203M"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "RI (36)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(40)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "I203V"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI (7)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(40)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "S227N"
+        ],
+        "N2": [
+            "246"
+        ],
+        "oseltamivir_resistance_level": "RI (24)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(43)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "H255Y"
+        ],
+        "N2": [
+            "274"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (44\u20132502)",
+        "zanamivir_resistance_level": "NI (1\u20133)",
+        "peramivir_resistance_level": "RI/HRI (23\u2013533)",
+        "laninavir_resistance_level": "NI (6)",
+        "references": [
+            "(5,",
+            "40,",
+            "46,",
+            "50,",
+            "51)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "N275S"
+        ],
+        "N2": [
+            "294"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (12\u2013138)",
+        "zanamivir_resistance_level": "NI/RI (1\u201327)",
+        "peramivir_resistance_level": "NI/RI/HRI (1\u2013130)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5,",
+            "46,",
+            "50,",
+            "52)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "K412T"
+        ],
+        "N2": [
+            "432"
+        ],
+        "oseltamivir_resistance_level": "NI (9)",
+        "zanamivir_resistance_level": "RI (12)",
+        "peramivir_resistance_level": "NI (5)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(53)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "I97V",
+            "I294V"
+        ],
+        "N2": [
+            "117",
+            "314"
+        ],
+        "oseltamivir_resistance_level": "RI (16)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(44)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "E99A",
+            "H255Y"
+        ],
+        "N2": [
+            "119",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (1530)",
+        "zanamivir_resistance_level": "RI (50)",
+        "peramivir_resistance_level": "HRI (2686)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "E99D",
+            "H255Y"
+        ],
+        "N2": [
+            "119",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (160)",
+        "zanamivir_resistance_level": "RI (65)",
+        "peramivir_resistance_level": "HRI (1629)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "E99G",
+            "H255Y"
+        ],
+        "N2": [
+            "119",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (801)",
+        "zanamivir_resistance_level": "RI (76)",
+        "peramivir_resistance_level": "HRI (>7692)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(5)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "I203L",
+            " S227N"
+        ],
+        "N2": [
+            "222",
+            "246"
+        ],
+        "oseltamivir_resistance_level": "RI (14)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (5)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(53)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "I203M",
+            "H255Y"
+        ],
+        "N2": [
+            "222",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (8024)",
+        "zanamivir_resistance_level": "NI (3)",
+        "peramivir_resistance_level": "HRI (3340)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(40)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "I203V",
+            "H255Y"
+        ],
+        "N2": [
+            "222",
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (1925)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "HRI (2106)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(40)"
+        ]
+    },
+    {
+        "strain": "A(H5N1)",
+        "mutation_NA": [
+            "K130N",
+            "I203L",
+            "S227N"
+        ],
+        "N2": [
+            "150",
+            "222",
+            "246"
+        ],
+        "oseltamivir_resistance_level": "RI (77)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(43)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "E119D"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "RI (32)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(54)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "E119I"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "HRI (208)",
+        "zanamivir_resistance_level": "RI (17)",
+        "peramivir_resistance_level": "NI (3)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(55)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "E119V"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (18\u20132057)",
+        "zanamivir_resistance_level": "NI (1\u20137)",
+        "peramivir_resistance_level": "NI (1\u20133)",
+        "laninavir_resistance_level": "NI (3\u20134)",
+        "references": [
+            "(36,",
+            "42,",
+            "54-59)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "Q136K"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "NI (1\u20137)",
+        "zanamivir_resistance_level": "RI/HRI (11\u2013132)",
+        "peramivir_resistance_level": "NI (3-9)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(31,",
+            "60,",
+            "61)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "D151A"
+        ],
+        "N2": [
+            "151"
+        ],
+        "oseltamivir_resistance_level": "NI (2-3)",
+        "zanamivir_resistance_level": "RI (29-43)",
+        "peramivir_resistance_level": "RI (10)",
+        "laninavir_resistance_level": "NI (7)",
+        "references": [
+            "(41,",
+            "60)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "D151E"
+        ],
+        "N2": [
+            "151"
+        ],
+        "oseltamivir_resistance_level": "RI (11)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(62)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "D151G"
+        ],
+        "N2": [
+            "151"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "HRI (>1500)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(63)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "I222L"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI (9)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(64)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "R224K"
+        ],
+        "N2": [
+            "224"
+        ],
+        "oseltamivir_resistance_level": "HRI (>4000)",
+        "zanamivir_resistance_level": "RI (>50)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(62)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "N245Y"
+        ],
+        "N2": [
+            "245"
+        ],
+        "oseltamivir_resistance_level": "RI (15)",
+        "zanamivir_resistance_level": "NI (5)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(17)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "Del 245\u2013248f"
+        ],
+        "N2": [
+            "245\u2013248"
+        ],
+        "oseltamivir_resistance_level": "HRI (157\u2013222)",
+        "zanamivir_resistance_level": "NI/RI (3-21)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(65,",
+            "66)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "Del 247-250f"
+        ],
+        "N2": [
+            "247-250"
+        ],
+        "oseltamivir_resistance_level": "HRI (235)",
+        "zanamivir_resistance_level": "RI (17)",
+        "peramivir_resistance_level": "NI (5)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(66)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "K249E"
+        ],
+        "N2": [
+            "249"
+        ],
+        "oseltamivir_resistance_level": "RI (10-15)",
+        "zanamivir_resistance_level": "NI (4-6)",
+        "peramivir_resistance_level": "NI (1-3)",
+        "laninavir_resistance_level": "NI (1-3)",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "E276D"
+        ],
+        "N2": [
+            "276"
+        ],
+        "oseltamivir_resistance_level": "RI (15)",
+        "zanamivir_resistance_level": "HRI (160)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(62)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "R292K"
+        ],
+        "N2": [
+            "292"
+        ],
+        "oseltamivir_resistance_level": "HRI (>10 000)",
+        "zanamivir_resistance_level": "NI/RI/HRI (3\u2013134)",
+        "peramivir_resistance_level": "RI/HRI (14\u2013719)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(12,",
+            "36,",
+            "41,",
+            "54,",
+            "56,",
+            "62,",
+            "67-69)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "N294S"
+        ],
+        "N2": [
+            "294"
+        ],
+        "oseltamivir_resistance_level": "HRI (300\u20131879)",
+        "zanamivir_resistance_level": "NI (8)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(36,",
+            "69)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "N329K"
+        ],
+        "N2": [
+            "329"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (5-21)",
+        "zanamivir_resistance_level": "NI/RI (3-12)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(13,",
+            "70,",
+            "71)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "N329R"
+        ],
+        "N2": [
+            "329"
+        ],
+        "oseltamivir_resistance_level": "RI (13)",
+        "zanamivir_resistance_level": "NI (8)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(71)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "S331R"
+        ],
+        "N2": [
+            "331"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (5-77)",
+        "zanamivir_resistance_level": "NI/RI (3-30)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(13,",
+            "70,",
+            "71)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            ""
+        ],
+        "N2": "",
+        "oseltamivir_resistance_level": "",
+        "zanamivir_resistance_level": "",
+        "peramivir_resistance_level": "",
+        "laninavir_resistance_level": "",
+        "references": []
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "S334R"
+        ],
+        "N2": [
+            "334"
+        ],
+        "oseltamivir_resistance_level": "NI (<2)h",
+        "zanamivir_resistance_level": "NI (<2)h",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(71)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "R371K"
+        ],
+        "N2": [
+            "371"
+        ],
+        "oseltamivir_resistance_level": "RI (45)",
+        "zanamivir_resistance_level": "RI (15)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(62)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "Q391K",
+            "K249E"
+        ],
+        "N2": [
+            "391"
+        ],
+        "oseltamivir_resistance_level": "RI (87)",
+        "zanamivir_resistance_level": "RI (32)",
+        "peramivir_resistance_level": "RI (16)",
+        "laninavir_resistance_level": "NI (9)",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "E119V",
+            "T148I"
+        ],
+        "N2": [
+            "119",
+            "148"
+        ],
+        "oseltamivir_resistance_level": "HRI (>6000)",
+        "zanamivir_resistance_level": "HRI (>800)",
+        "peramivir_resistance_level": "HRI (>110)",
+        "laninavir_resistance_level": "HRI (>250)",
+        "references": [
+            "(59)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "E119V",
+            "I222L"
+        ],
+        "N2": [
+            "119",
+            "222"
+        ],
+        "oseltamivir_resistance_level": "HRI (1571)",
+        "zanamivir_resistance_level": "RI (5)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(64)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "E119V",
+            "I222V"
+        ],
+        "N2": [
+            "119",
+            "222"
+        ],
+        "oseltamivir_resistance_level": "HRI (293\u20132286)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "NI (7)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(58,",
+            "72)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_NA": [
+            "I222T",
+            "S331R"
+        ],
+        "N2": [
+            "222",
+            "331"
+        ],
+        "oseltamivir_resistance_level": "RI (12-31)",
+        "zanamivir_resistance_level": "NI (3-7)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "NI (3-4)",
+        "references": [
+            "(60)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)v",
+        "mutation_NA": [
+            "S245N"
+        ],
+        "N2": [
+            "245"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(73)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)v",
+        "mutation_NA": [
+            "S247P"
+        ],
+        "N2": [
+            "247"
+        ],
+        "oseltamivir_resistance_level": "RI (42)",
+        "zanamivir_resistance_level": "HRI (266)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "NI (9)",
+        "references": [
+            "(73)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)v",
+        "mutation_NA": [
+            "S245N",
+            "S247P"
+        ],
+        "N2": [
+            "245",
+            "247"
+        ],
+        "oseltamivir_resistance_level": "RI (31\u201340)",
+        "zanamivir_resistance_level": "HI/HRI (66\u2013235)",
+        "peramivir_resistance_level": "NI (1\u20132)",
+        "laninavir_resistance_level": "NI (7\u20139)",
+        "references": [
+            "(31,",
+            "73)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "E115A"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI (19)",
+        "zanamivir_resistance_level": "HRI (228)",
+        "peramivir_resistance_level": "RI (20)",
+        "laninavir_resistance_level": "RI (62)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "E115D"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI (14)",
+        "zanamivir_resistance_level": "HRI (1436)",
+        "peramivir_resistance_level": "HRI (411)",
+        "laninavir_resistance_level": "HRI (383)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "E115G"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "HRI (419)",
+        "peramivir_resistance_level": "RI (48)",
+        "laninavir_resistance_level": "HRI (124)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "E115V"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (84\u2212169)",
+        "zanamivir_resistance_level": "NI (6\u22129)",
+        "peramivir_resistance_level": "NI (1\u22122)",
+        "laninavir_resistance_level": "NI (2\u22125)",
+        "references": [
+            "(74-76)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "Q132K"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "HRI (702)",
+        "peramivir_resistance_level": "HRI (131)",
+        "laninavir_resistance_level": "HRI (313)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "R148K"
+        ],
+        "N2": [
+            "152"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "NI (5)",
+        "peramivir_resistance_level": "NI (3)",
+        "laninavir_resistance_level": "RI (16)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "I219K"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "RI (46)",
+        "zanamivir_resistance_level": "RI (17)",
+        "peramivir_resistance_level": "RI (11)",
+        "laninavir_resistance_level": "RI (27)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "I219L"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI (5)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(76)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "I219R"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "RI (38)",
+        "zanamivir_resistance_level": "NI (2.5)",
+        "peramivir_resistance_level": "NI (8.6)",
+        "laninavir_resistance_level": "RI (63)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "T244P"
+        ],
+        "N2": [
+            "247"
+        ],
+        "oseltamivir_resistance_level": "RI (27)",
+        "zanamivir_resistance_level": "RI (69)",
+        "peramivir_resistance_level": "NI (4)",
+        "laninavir_resistance_level": "NI (9)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "H271Y"
+        ],
+        "N2": [
+            "274"
+        ],
+        "oseltamivir_resistance_level": "HRI (105)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "NI (9)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "E273D"
+        ],
+        "N2": [
+            "276"
+        ],
+        "oseltamivir_resistance_level": "RI (13)",
+        "zanamivir_resistance_level": "HRI (427)",
+        "peramivir_resistance_level": "RI (25)",
+        "laninavir_resistance_level": "RI (90)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "R289K"
+        ],
+        "N2": [
+            "292"
+        ],
+        "oseltamivir_resistance_level": "HRI (>4600)",
+        "zanamivir_resistance_level": "RI/HRI (11\u201367)",
+        "peramivir_resistance_level": "HRI (405\u20132487)",
+        "laninavir_resistance_level": "RI (16\u201335)",
+        "references": [
+            "(74,",
+            "75,",
+            "77,",
+            "78)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "N291S"
+        ],
+        "N2": [
+            "294"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "RI (10)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (3)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "R367K"
+        ],
+        "N2": [
+            "371"
+        ],
+        "oseltamivir_resistance_level": "RI (70)",
+        "zanamivir_resistance_level": "RI (64)",
+        "peramivir_resistance_level": "RI (29)",
+        "laninavir_resistance_level": "RI (19)",
+        "references": [
+            "(74)"
+        ]
+    },
+    {
+        "strain": "A(H7N9)",
+        "mutation_NA": [
+            "E115V",
+            "I219L"
+        ],
+        "N2": [
+            "119",
+            "222"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (306)",
+        "zanamivir_resistance_level": "NI (8)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "NI (4)",
+        "references": [
+            "(76)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            ""
+        ],
+        "N2": "",
+        "oseltamivir_resistance_level": "",
+        "zanamivir_resistance_level": "",
+        "peramivir_resistance_level": "",
+        "laninavir_resistance_level": "",
+        "references": []
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "H101L"
+        ],
+        "N2": [
+            "103"
+        ],
+        "oseltamivir_resistance_level": "NI (2\u22123)",
+        "zanamivir_resistance_level": "RI (30\u221234)",
+        "peramivir_resistance_level": "HRI (688\u2212791)",
+        "laninavir_resistance_level": "RI (4\u22125)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G104E"
+        ],
+        "N2": [
+            "106"
+        ],
+        "oseltamivir_resistance_level": "HRI (87)",
+        "zanamivir_resistance_level": "HRI (1220)",
+        "peramivir_resistance_level": "HRI (17724)",
+        "laninavir_resistance_level": "HRI (701)",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "E105K"
+        ],
+        "N2": [
+            "107"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (4\u201310)",
+        "zanamivir_resistance_level": "NI/RI (1-42)",
+        "peramivir_resistance_level": "RI/HRI (6-681)",
+        "laninavir_resistance_level": "NI/RI (1\u201312)",
+        "references": [
+            "(80,",
+            "81)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G108E"
+        ],
+        "N2": [
+            "110"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (5-215)",
+        "zanamivir_resistance_level": "RI/HRI (5-4493)",
+        "peramivir_resistance_level": "HRI (55)",
+        "laninavir_resistance_level": "NI /HRI (3-7310)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "E117A"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "HRI (>300-3171)",
+        "zanamivir_resistance_level": "HRI (>560-12538)",
+        "peramivir_resistance_level": "HRI (>1598-13780)",
+        "laninavir_resistance_level": "HRI (421-2163)",
+        "references": [
+            "(81-84)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "E117D"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "HRI (>300)",
+        "zanamivir_resistance_level": "HRI (>560)",
+        "peramivir_resistance_level": "HRI (>1598)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(82)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "E117G"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (6-53)",
+        "zanamivir_resistance_level": "RI/HRI (33\u20134612)",
+        "peramivir_resistance_level": "HRI (>1598->10000)",
+        "laninavir_resistance_level": "HRI (423-855)",
+        "references": [
+            "(81,",
+            "82,",
+            "85)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "E117V"
+        ],
+        "N2": [
+            "119"
+        ],
+        "oseltamivir_resistance_level": "HRI (300)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "HRI (531)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(82)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "H134N"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "NI (3-4)",
+        "zanamivir_resistance_level": "HRI (121-212)",
+        "peramivir_resistance_level": "HRI (100-131)",
+        "laninavir_resistance_level": "RI/HRI (49-240)",
+        "references": [
+            "(3,",
+            "86,",
+            "87)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "H134Q"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "NI (3)",
+        "zanamivir_resistance_level": "RI (6)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "H134Y"
+        ],
+        "N2": [
+            "136"
+        ],
+        "oseltamivir_resistance_level": "NI (4)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "HRI (76)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "Q138R"
+        ],
+        "N2": [
+            "140"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "RI (15)",
+        "peramivir_resistance_level": "RI (41)",
+        "laninavir_resistance_level": "RI (7)",
+        "references": [
+            "(88)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "P139S"
+        ],
+        "N2": [
+            "141"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (10-68)",
+        "zanamivir_resistance_level": "NI/RI/HRI (2-160)",
+        "peramivir_resistance_level": "RI/HRI (12->9091)",
+        "laninavir_resistance_level": "NI/RI/HRI (3-142)",
+        "references": [
+            "(81,",
+            "88)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G140R"
+        ],
+        "N2": [
+            "142"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (9-184)",
+        "zanamivir_resistance_level": "NI/RI/HRI (1-1037)",
+        "peramivir_resistance_level": "RI/HRI (12->9091)",
+        "laninavir_resistance_level": "NI/RI/HRI (2-1197)",
+        "references": [
+            "(81,",
+            "88)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "Y142H"
+        ],
+        "N2": [
+            "144"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "RI (6)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(12)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G145E"
+        ],
+        "N2": [
+            "147"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "RI (14)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(60)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G145R"
+        ],
+        "N2": [
+            "147"
+        ],
+        "oseltamivir_resistance_level": "NI (2\u22123)",
+        "zanamivir_resistance_level": "NI/RI (3\u22129)",
+        "peramivir_resistance_level": "RI (5\u22126)",
+        "laninavir_resistance_level": "NI (1\u22123)",
+        "references": [
+            "(17)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "T146I"
+        ],
+        "N2": [
+            "148"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "HRI (145)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(60)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "T146K"
+        ],
+        "N2": [
+            "148"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (1-34)",
+        "zanamivir_resistance_level": "NI/RI/HRI (3-192)",
+        "peramivir_resistance_level": "HRI (187-21893)",
+        "laninavir_resistance_level": "NI/RI (1-6)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "T146P"
+        ],
+        "N2": [
+            "148"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (2-8)",
+        "zanamivir_resistance_level": "NI/RI (4-11)",
+        "peramivir_resistance_level": "HRI (128-3338)",
+        "laninavir_resistance_level": "NI (3)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "R150K"
+        ],
+        "N2": [
+            "152"
+        ],
+        "oseltamivir_resistance_level": "HRI (60\u2013252)",
+        "zanamivir_resistance_level": "RI/HRI (5\u20131000)",
+        "peramivir_resistance_level": "HRI (214\u20132869)",
+        "laninavir_resistance_level": "HRI (473)",
+        "references": [
+            "(2,",
+            "42,",
+            "62,",
+            "82,",
+            "87,",
+            "89-91)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "N151S"
+        ],
+        "N2": [
+            "153"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "RI (7)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(13)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "K152M"
+        ],
+        "N2": [
+            "154"
+        ],
+        "oseltamivir_resistance_level": "RI (5)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(60)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "K152N"
+        ],
+        "N2": [
+            "154"
+        ],
+        "oseltamivir_resistance_level": "RI (6)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "N169S"
+        ],
+        "N2": [
+            "170"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "D197E"
+        ],
+        "N2": [
+            "198"
+        ],
+        "oseltamivir_resistance_level": "RI (12\u201326)",
+        "zanamivir_resistance_level": "NI (3\u20137)",
+        "peramivir_resistance_level": "RI (16\u201318)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(39,",
+            "84,",
+            "92)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "D197G"
+        ],
+        "N2": [
+            "198"
+        ],
+        "oseltamivir_resistance_level": "NI (3)",
+        "zanamivir_resistance_level": "RI (5)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(60)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "D197N"
+        ],
+        "N2": [
+            "198"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (4\u201310)",
+        "zanamivir_resistance_level": "NI/RI (3\u201317)",
+        "peramivir_resistance_level": "NI/RI (5-24)",
+        "laninavir_resistance_level": "NI (2-3)",
+        "references": [
+            "(3,",
+            "41,",
+            "42,",
+            "57,",
+            "93)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "D197Y"
+        ],
+        "N2": [
+            "198"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (15/57)",
+        "zanamivir_resistance_level": "RI (14)",
+        "peramivir_resistance_level": "HRI (168)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(84,",
+            "94)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "A200T"
+        ],
+        "N2": [
+            "201"
+        ],
+        "oseltamivir_resistance_level": "RI (5\u201348)",
+        "zanamivir_resistance_level": "RI (5\u201323)",
+        "peramivir_resistance_level": "RI (67-85)",
+        "laninavir_resistance_level": "NI/RI (4-27)",
+        "references": [
+            "(14,",
+            "31,",
+            "79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "I221L"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "HRI (70\u2013121)",
+        "zanamivir_resistance_level": "RI (7\u201341)",
+        "peramivir_resistance_level": "RI (39-56)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(95,",
+            "96)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "I221N"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "RI/HRI (36-219)",
+        "zanamivir_resistance_level": "RI (6-14)",
+        "peramivir_resistance_level": "HRI (136-956)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(96)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "I221T"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (5\u20138)",
+        "zanamivir_resistance_level": "NI (2\u20134)",
+        "peramivir_resistance_level": "RI (15\u201343)",
+        "laninavir_resistance_level": "NI (<3)",
+        "references": [
+            "(27,",
+            "39,",
+            "84,",
+            "93,",
+            "97)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "I221V"
+        ],
+        "N2": [
+            "222"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "RI (6)",
+        "laninavir_resistance_level": "NI (3))",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "A245T"
+        ],
+        "N2": [
+            "246"
+        ],
+        "oseltamivir_resistance_level": "RI (9-24)",
+        "zanamivir_resistance_level": "RI/HRI (39-205)",
+        "peramivir_resistance_level": "RI (5-10)",
+        "laninavir_resistance_level": "NI/RI (3-5)",
+        "references": [
+            "(14,",
+            "27)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "S246P"
+        ],
+        "N2": [
+            "247"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "RI (40)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(2)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G247D"
+        ],
+        "N2": [
+            "248"
+        ],
+        "oseltamivir_resistance_level": "NI (4)",
+        "zanamivir_resistance_level": "NI (4)",
+        "peramivir_resistance_level": "NI (2)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "H273Y"
+        ],
+        "N2": [
+            "274"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (2\u201312)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "RI/HRI (15\u201313434)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(3,",
+            "29,",
+            "41,",
+            "84)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "R292K"
+        ],
+        "N2": [
+            "292"
+        ],
+        "oseltamivir_resistance_level": "HRI (>300)",
+        "zanamivir_resistance_level": "RI (29)",
+        "peramivir_resistance_level": "HRI (502)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(82)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "N294S"
+        ],
+        "N2": [
+            "294"
+        ],
+        "oseltamivir_resistance_level": "RI (8\u201361)",
+        "zanamivir_resistance_level": "NI/RI (1\u201318)",
+        "peramivir_resistance_level": "RI (17-58)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(84,",
+            "87,",
+            "96,",
+            "98)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "K360E"
+        ],
+        "N2": [
+            "358\u2013359i"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "NI (2)",
+        "peramivir_resistance_level": "HRI (165)",
+        "laninavir_resistance_level": "NI (<3)",
+        "references": [
+            "(27)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "I361V"
+        ],
+        "N2": [
+            "358"
+        ],
+        "oseltamivir_resistance_level": "NI (2)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "NI (1)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "R374K"
+        ],
+        "N2": [
+            "371"
+        ],
+        "oseltamivir_resistance_level": "HRI (101-407)",
+        "zanamivir_resistance_level": "RI/HRI (29-145)",
+        "peramivir_resistance_level": "HRI (352)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(41,",
+            "84)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "A395E"
+        ],
+        "N2": [
+            "392"
+        ],
+        "oseltamivir_resistance_level": "RI (5)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "RI (5)",
+        "laninavir_resistance_level": "NI (<3)",
+        "references": [
+            "(27)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "L396H"
+        ],
+        "N2": [
+            "393"
+        ],
+        "oseltamivir_resistance_level": "NI (3)",
+        "zanamivir_resistance_level": "RI (11)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(14)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G407S"
+        ],
+        "N2": [
+            "404"
+        ],
+        "oseltamivir_resistance_level": "NI (4)",
+        "zanamivir_resistance_level": "RI (7)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(93)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "D432G"
+        ],
+        "N2": [
+            "429"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "NI (1-3)",
+        "peramivir_resistance_level": "RI/HRI (41-148)",
+        "laninavir_resistance_level": "NI (1-3)",
+        "references": [
+            "(27,",
+            "79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "D432N"
+        ],
+        "N2": [
+            "429"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "RI (8)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(14)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "H439P"
+        ],
+        "N2": [
+            "439"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (1/6)",
+        "zanamivir_resistance_level": "NI/RI (4/13)",
+        "peramivir_resistance_level": "HRI (56-120)",
+        "laninavir_resistance_level": "NI (2-4)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "H439R"
+        ],
+        "N2": [
+            "439"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "RI (5-10)",
+        "peramivir_resistance_level": "RI (20-23)",
+        "laninavir_resistance_level": "NI (2)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "M464T"
+        ],
+        "N2": [
+            "466"
+        ],
+        "oseltamivir_resistance_level": "NI (1)",
+        "zanamivir_resistance_level": "NI (1)",
+        "peramivir_resistance_level": "RI (8)",
+        "laninavir_resistance_level": "NI (1)",
+        "references": [
+            "(14)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "T106I",
+            "P165L"
+        ],
+        "N2": [
+            "108",
+            "166"
+        ],
+        "oseltamivir_resistance_level": "NI (4)",
+        "zanamivir_resistance_level": "RI (14)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G140R",
+            "N144K"
+        ],
+        "N2": [
+            "142",
+            "146"
+        ],
+        "oseltamivir_resistance_level": "NI (6)",
+        "zanamivir_resistance_level": "RI (10)",
+        "peramivir_resistance_level": "HRI (257)",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(29)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "Y142H",
+            "G145R"
+        ],
+        "N2": [
+            "144",
+            "147"
+        ],
+        "oseltamivir_resistance_level": "RI (5)",
+        "zanamivir_resistance_level": "NI (4)",
+        "peramivir_resistance_level": "HRI (487)",
+        "laninavir_resistance_level": "NI (<3)",
+        "references": [
+            "(27)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "T146P",
+            "N169S"
+        ],
+        "N2": [
+            "148",
+            "170"
+        ],
+        "oseltamivir_resistance_level": "RI (31-44)",
+        "zanamivir_resistance_level": "HRI (225-573)",
+        "peramivir_resistance_level": "HRI (7158-10074)",
+        "laninavir_resistance_level": "HRI (86-280)",
+        "references": [
+            "(79)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "K186R",
+            "I262T"
+        ],
+        "N2": [
+            "187",
+            "263"
+        ],
+        "oseltamivir_resistance_level": "NI (3)",
+        "zanamivir_resistance_level": "RI (17)",
+        "peramivir_resistance_level": "?",
+        "laninavir_resistance_level": "?",
+        "references": [
+            "(3)"
+        ]
+    },
+    {
+        "strain": "Type B",
+        "mutation_NA": [
+            "G247D",
+            "I361V"
+        ],
+        "N2": [
+            "248",
+            "358"
+        ],
+        "oseltamivir_resistance_level": "NI/RI (2/6)",
+        "zanamivir_resistance_level": "NI/RI (3/6)",
+        "peramivir_resistance_level": "NI/RI (4/46)",
+        "laninavir_resistance_level": "NI (1/3)",
+        "references": [
+            "(79)"
+        ]
+    }
+]

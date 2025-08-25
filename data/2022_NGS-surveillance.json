@@ -1,0 +1,5996 @@
+[
+    {
+        "mutations": [
+            "PB2:F404Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Pimodivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "257.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PB2:M431I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Pimodivir",
+        "resistance_level": "RI",
+        "min_fold_change": "57.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PB2:N510T"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Pimodivir",
+        "resistance_level": "RI",
+        "min_fold_change": "90.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PB2:N510T"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Pimodivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "133.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PB2:Q306H"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Pimodivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "186.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PB2:S324I"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Pimodivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "157.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PB2:S324N"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Pimodivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "127.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PB2:S324R"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Pimodivir",
+        "resistance_level": "RI",
+        "min_fold_change": "63.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PB1:H456P"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Compound '367'",
+        "resistance_level": "HRI",
+        "min_fold_change": "100.00",
+        "max_fold_change": "333.33"
+    },
+    {
+        "mutations": [
+            "PA:G81F"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "L-742,001",
+        "resistance_level": "RI",
+        "min_fold_change": "35.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:G81T"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "L-742,001",
+        "resistance_level": "RI",
+        "min_fold_change": "34.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:G81V"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "L-742,001",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:H41A"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "L-742,001",
+        "resistance_level": "RI",
+        "min_fold_change": "20.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:I120T"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "L-742,001",
+        "resistance_level": "RI",
+        "min_fold_change": "29.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:I38F"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Xofluza",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:I38F"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Xofluza",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:I38F"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Xofluza",
+        "resistance_level": "RI",
+        "min_fold_change": "20.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:I38M"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Xofluza",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": "14.00"
+    },
+    {
+        "mutations": [
+            "PA:I38M"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Xofluza",
+        "resistance_level": "RI",
+        "min_fold_change": "13.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:I38T"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Xofluza",
+        "resistance_level": "RI",
+        "min_fold_change": "27.00",
+        "max_fold_change": "76.00"
+    },
+    {
+        "mutations": [
+            "PA:I38T"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Xofluza",
+        "resistance_level": "RI",
+        "min_fold_change": "81.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "PA:I38T"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Xofluza",
+        "resistance_level": "RI",
+        "min_fold_change": "49.00",
+        "max_fold_change": "57.00"
+    },
+    {
+        "mutations": [
+            "PA:T20A",
+            "PA:F105S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "L-742,001",
+        "resistance_level": "RI",
+        "min_fold_change": "11.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:A28T",
+            "HA:R453M",
+            "NA:R292K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "28 + 453",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "3 230.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:A28T",
+            "HA:R453M",
+            "NA:R292K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "28 + 453",
+        "N2": "292",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "60.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:G137R"
+        ],
+        "strain": "B",
+        "H3": "(125-126)",
+        "N2": "",
+        "antiviral_resistance": "Fludase",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "3.00",
+        "max_fold_change": "15.00"
+    },
+    {
+        "mutations": [
+            "HA:K130E",
+            "NA:E119K",
+            "NA:G147E"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "(133-134)",
+        "N2": "119 + 147",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "10 000.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K130E",
+            "NA:E119K",
+            "NA:G147E"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "(133-134)",
+        "N2": "119 + 147",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "10 000.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K140E",
+            "NA:E119D"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "144",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "53 191.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K140E",
+            "NA:E119G"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "144",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "53 191.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K140E",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "144",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K153E",
+            "HA:D222G",
+            "NA:E119K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "156 + 225",
+        "N2": "119",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "394.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K153E",
+            "HA:D222G",
+            "NA:E119K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "156 + 225",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "708.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K162E",
+            "HA:L317P",
+            "NA:E119G"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "165 + 320",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "53 191.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K234Q",
+            "NA:I203M"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "238",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "60.67",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:K234Q",
+            "NA:I203M",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "238",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "297.33",
+        "max_fold_change": "4 633.33"
+    },
+    {
+        "mutations": [
+            "HA:R188K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "192",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:S136T+G 137R",
+            "NA:W438L"
+        ],
+        "strain": "B",
+        "H3": "125+(125-\n126)",
+        "N2": "438",
+        "antiviral_resistance": "Fludase",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": "6.00"
+    },
+    {
+        "mutations": [
+            "HA:S136T+G 137R"
+        ],
+        "strain": "B",
+        "H3": "125+(125-\n126)",
+        "N2": "",
+        "antiviral_resistance": "Fludase",
+        "resistance_level": "RI",
+        "min_fold_change": "7.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:S138A",
+            "HA:P194L",
+            "NA:Del (106- 342)"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "138 + 194",
+        "N2": "(106-342)",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "10 000.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:S138A",
+            "HA:P194L",
+            "NA:Del (106- 342)"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "138 + 194",
+        "N2": "(106-342)",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "10 000.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:S186I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "186",
+        "N2": "",
+        "antiviral_resistance": "Fludase",
+        "resistance_level": "RI",
+        "min_fold_change": "18.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:T82K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "92",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:V132A",
+            "HA:G155E"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "135 + 158",
+        "N2": "",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "183.30",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "HA:V132A",
+            "HA:G155E"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "135 + 158",
+        "N2": "",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "26.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NP:N309T"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Nucleozin",
+        "resistance_level": "RI",
+        "min_fold_change": "35.00",
+        "max_fold_change": "55.71"
+    },
+    {
+        "mutations": [
+            "NP:Y289H"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Nucleozin",
+        "resistance_level": "HRI",
+        "min_fold_change": "400.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NP:Y289H"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Nucleozin",
+        "resistance_level": "HRI",
+        "min_fold_change": "121.43",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NP:Y52H"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Nucleozin",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NP:Y52H"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Nucleozin",
+        "resistance_level": "HRI",
+        "min_fold_change": "400.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NP:Y52H",
+            "NP:Y289H"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Nucleozin",
+        "resistance_level": "HRI",
+        "min_fold_change": "400.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:A136S"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "138",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "6.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:A200A/T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "201",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": "8.00"
+    },
+    {
+        "mutations": [
+            "NA:A200A/T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "201",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": "7.00"
+    },
+    {
+        "mutations": [
+            "NA:A200T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "201",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "27.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:A200T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "201",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:A200T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "201",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "42.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:A243T"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "25.40",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:A245T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "8.10",
+        "max_fold_change": "24.00"
+    },
+    {
+        "mutations": [
+            "NA:A245T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "32.00",
+        "max_fold_change": "55.00"
+    },
+    {
+        "mutations": [
+            "NA:A245T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:A395E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "390",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": "7.00"
+    },
+    {
+        "mutations": [
+            "NA:A395E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "390",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151A"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "43.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151A/D"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "44.90",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151E"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151E",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "13.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151E",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "231.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151E",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "80.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151E/N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "231.00",
+        "max_fold_change": "799.00"
+    },
+    {
+        "mutations": [
+            "NA:D151E/N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "80.00",
+        "max_fold_change": "718.00"
+    },
+    {
+        "mutations": [
+            "NA:D151G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 189.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 161.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151N"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "2.30",
+        "max_fold_change": "19.00"
+    },
+    {
+        "mutations": [
+            "NA:D151N"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151N"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "0.54",
+        "max_fold_change": "11.00"
+    },
+    {
+        "mutations": [
+            "NA:D151N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "799.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "151 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "718.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151N/ D"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "0.70",
+        "max_fold_change": "22.00"
+    },
+    {
+        "mutations": [
+            "NA:D151N/ D"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "2.00",
+        "max_fold_change": "21.00"
+    },
+    {
+        "mutations": [
+            "NA:D151V"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "40.31",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D151V/D"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "151",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "164.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D179G"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "32.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D179G"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "44.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D197E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "6.80",
+        "max_fold_change": "26.30"
+    },
+    {
+        "mutations": [
+            "NA:D197E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "16.00",
+        "max_fold_change": "18.00"
+    },
+    {
+        "mutations": [
+            "NA:D197E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "3.00",
+        "max_fold_change": "27.50"
+    },
+    {
+        "mutations": [
+            "NA:D197N"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "3.60",
+        "max_fold_change": "11.00"
+    },
+    {
+        "mutations": [
+            "NA:D197N"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "3.00",
+        "max_fold_change": "29.00"
+    },
+    {
+        "mutations": [
+            "NA:D197N"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "2.20",
+        "max_fold_change": "17.00"
+    },
+    {
+        "mutations": [
+            "NA:D197Y"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "14.50",
+        "max_fold_change": "57.00"
+    },
+    {
+        "mutations": [
+            "NA:D197Y"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "168.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D197Y"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": "14.30"
+    },
+    {
+        "mutations": [
+            "NA:D199D/ N",
+            "NA:H275H/Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "198 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "318.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D199D/ N",
+            "NA:H275H/Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "198 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "108.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D199E"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "16.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D199G"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "198",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": "17.00"
+    },
+    {
+        "mutations": [
+            "NA:D199G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "198 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "4 516.13",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D199G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "198 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "4 250.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:D199N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "198 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "318.00",
+        "max_fold_change": "843.30"
+    },
+    {
+        "mutations": [
+            "NA:D199N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "198 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "108.00",
+        "max_fold_change": "169.20"
+    },
+    {
+        "mutations": [
+            "NA:D432G"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "429",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "23.00",
+        "max_fold_change": "54.00"
+    },
+    {
+        "mutations": [
+            "NA:Del (245- 248)"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "(245-248)",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "157.00",
+        "max_fold_change": "175.00"
+    },
+    {
+        "mutations": [
+            "NA:E105K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "110",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "3.00",
+        "max_fold_change": "12.00"
+    },
+    {
+        "mutations": [
+            "NA:E105K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "110",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "213.00",
+        "max_fold_change": "436.00"
+    },
+    {
+        "mutations": [
+            "NA:E105K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "110",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.60",
+        "max_fold_change": "42.40"
+    },
+    {
+        "mutations": [
+            "NA:E105K/E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "110",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "59.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E115V"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "84.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E115V",
+            "NA:I219L"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "119 + 222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "235.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E117A"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "421.00",
+        "max_fold_change": "2 163.00"
+    },
+    {
+        "mutations": [
+            "NA:E117A"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "60.00",
+        "max_fold_change": "3 171.00"
+    },
+    {
+        "mutations": [
+            "NA:E117A"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "25.00",
+        "max_fold_change": "13 780.00"
+    },
+    {
+        "mutations": [
+            "NA:E117A"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "571.00",
+        "max_fold_change": "12 538.00"
+    },
+    {
+        "mutations": [
+            "NA:E117A/D"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "300.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E117A/D"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 598.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E117A/D"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "560.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E117D"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "117.00",
+        "max_fold_change": "560.00"
+    },
+    {
+        "mutations": [
+            "NA:E117D"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 598.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E117D"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "300.00",
+        "max_fold_change": "32 667.00"
+    },
+    {
+        "mutations": [
+            "NA:E117G"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "423.00",
+        "max_fold_change": "855.00"
+    },
+    {
+        "mutations": [
+            "NA:E117G"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "6.00",
+        "max_fold_change": "53.00"
+    },
+    {
+        "mutations": [
+            "NA:E117G"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 598.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E117G"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "33.00",
+        "max_fold_change": "4 612.00"
+    },
+    {
+        "mutations": [
+            "NA:E117V"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "300.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E117V"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "531.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E118D"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "100.63",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E118G"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "67.35",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E118V"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "55.28",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E118V",
+            "NA:I222L"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "119 + 222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "300.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119A"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "82.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119A"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119A"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119A"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "90.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119A"
+        ],
+        "strain": "A(H4N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "4.00",
+        "max_fold_change": "100.00"
+    },
+    {
+        "mutations": [
+            "NA:E119A",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 172.70",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119A",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "14 578.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119A",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "55.50",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119D"
+        ],
+        "strain": "A(H4N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "46.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119D"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "702.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119D"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "7.80",
+        "max_fold_change": "22.90"
+    },
+    {
+        "mutations": [
+            "NA:E119D"
+        ],
+        "strain": "A(H4N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "33.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119D"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "103.70",
+        "max_fold_change": "286.00"
+    },
+    {
+        "mutations": [
+            "NA:E119D"
+        ],
+        "strain": "A(H4N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "17.00",
+        "max_fold_change": "323.00"
+    },
+    {
+        "mutations": [
+            "NA:E119D"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "583.40",
+        "max_fold_change": "827.00"
+    },
+    {
+        "mutations": [
+            "NA:E119D"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "32.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119D",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "366.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119D",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "790.00",
+        "max_fold_change": "3 381.00"
+    },
+    {
+        "mutations": [
+            "NA:E119D",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "5 958.00",
+        "max_fold_change": "33 333.00"
+    },
+    {
+        "mutations": [
+            "NA:E119D",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "135.60",
+        "max_fold_change": "903.00"
+    },
+    {
+        "mutations": [
+            "NA:E119G"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "HRI",
+        "min_fold_change": "123.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119G"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "108.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119G"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "51.00",
+        "max_fold_change": "81.70"
+    },
+    {
+        "mutations": [
+            "NA:E119G"
+        ],
+        "strain": "A(H4N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "8.00",
+        "max_fold_change": "200.00"
+    },
+    {
+        "mutations": [
+            "NA:E119G"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "113.20",
+        "max_fold_change": "832.00"
+    },
+    {
+        "mutations": [
+            "NA:E119G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "224.60",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "3 333.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "224.30",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "208.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119K",
+            "NA:G147E"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 147",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "10 000.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119K",
+            "NA:G147E"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119 + 147",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "10 000.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "69.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "49.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "5.00",
+        "max_fold_change": "132.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 727.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "60.00",
+        "max_fold_change": "60.20"
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "18.00",
+        "max_fold_change": "2 057.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "5 050.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "25.30",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "2 144.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "571.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "0.04",
+        "max_fold_change": "21.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "132.00",
+        "max_fold_change": "202.50"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:I222L"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 571.00",
+        "max_fold_change": "1 850.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:I222V"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "293.00",
+        "max_fold_change": "2 286.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:I223L"
+        ],
+        "strain": "A(H11N6)",
+        "H3": "",
+        "N2": "119 + 222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "90.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:I223L"
+        ],
+        "strain": "A(H2N3)",
+        "H3": "",
+        "N2": "119 + 222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "46.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:Q136K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 136",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "101.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:Q136K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 136",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "325.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:Q136K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "220.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:Q136K",
+            "NA:Del (245- 248)"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 136\n+ (245-\n248)",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "364.00",
+        "max_fold_change": "1 918.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:Q136K",
+            "NA:Del (245- 248)"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 136\n+ (245-\n248)",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "9.00",
+        "max_fold_change": "180.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:Q136K",
+            "NA:Del (245- 248)"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 136\n+ (245-\n248)",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "28.00",
+        "max_fold_change": "285.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:T148I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 148",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "250.00",
+        "max_fold_change": "722.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:T148I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 148",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "6 000.00",
+        "max_fold_change": "6 154.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:T148I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 148",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "110.00",
+        "max_fold_change": "119.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V",
+            "NA:T148I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 148",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "800.00",
+        "max_fold_change": "1 050.00"
+    },
+    {
+        "mutations": [
+            "NA:E119V/E",
+            "NA:N146K",
+            "NA:S219T",
+            "NA:Del (245- 248)",
+            "M2:S31N"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119 + 146\n+ 219 +\n(245-248)",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "193.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V/I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "350.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E119V/I"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "67.12",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E276D"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "276",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "15.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E276D"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "276",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "25.90",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E276D"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "276",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "160.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E59G",
+            "NA:E119V",
+            "NA:I222V"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "188.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99A"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "9.90",
+        "max_fold_change": "35.30"
+    },
+    {
+        "mutations": [
+            "NA:E99A"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "50.50",
+        "max_fold_change": "1 254.00"
+    },
+    {
+        "mutations": [
+            "NA:E99A",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 530.30",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99A",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "2 685.90",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99A",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "50.40",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99D"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "87.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99D"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "132.20",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99D"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 436.40",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99D",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "159.70",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99D",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 628.70",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99D",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "76.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99G"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "12.00",
+        "max_fold_change": "164.00"
+    },
+    {
+        "mutations": [
+            "NA:E99G"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 345.00",
+        "max_fold_change": "1 485.00"
+    },
+    {
+        "mutations": [
+            "NA:E99G",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "801.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99G",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "7 692.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:E99G",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "119 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "76.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G104E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "109",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "701.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G104E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "109",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "87.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G104E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "109",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "17 724.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G104E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "109",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 220.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G140R"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "142",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "2.00",
+        "max_fold_change": "1 197.00"
+    },
+    {
+        "mutations": [
+            "NA:G140R"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "142",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "9.00",
+        "max_fold_change": "184.00"
+    },
+    {
+        "mutations": [
+            "NA:G140R"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "142",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "12.00",
+        "max_fold_change": "9 091.00"
+    },
+    {
+        "mutations": [
+            "NA:G140R"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "142",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "1.00",
+        "max_fold_change": "1 037.00"
+    },
+    {
+        "mutations": [
+            "NA:G140R",
+            "NA:N144K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "142 + 146",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "257.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G140R",
+            "NA:N144K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "142 + 146",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G140R+ N144K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "142+146",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "6.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G140R+ N144K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "142+146",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G145E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "147",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G147R",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "147 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "2 600.00",
+        "max_fold_change": "2 649.00"
+    },
+    {
+        "mutations": [
+            "NA:G147R",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "147 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 400.00",
+        "max_fold_change": "1 427.00"
+    },
+    {
+        "mutations": [
+            "NA:G320E"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "320",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:G407S"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "402",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "7.00",
+        "max_fold_change": "7.10"
+    },
+    {
+        "mutations": [
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "44.30",
+        "max_fold_change": "2 502.00"
+    },
+    {
+        "mutations": [
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "23.40",
+        "max_fold_change": "533.00"
+    },
+    {
+        "mutations": [
+            "NA:H271Y"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "90.30",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H271Y"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "11.20",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H273Y"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "2.00",
+        "max_fold_change": "12.00"
+    },
+    {
+        "mutations": [
+            "NA:H273Y"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "15.00",
+        "max_fold_change": "322.00"
+    },
+    {
+        "mutations": [
+            "NA:H274Y"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.40",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H274Y",
+            "NA:S334N"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274 + 336",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "178.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H274Y",
+            "NA:S334N"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274 + 336",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "658.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H275Y",
+            "M2:V28I",
+            "M2:S31N"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Favipiravir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "7.97",
+        "max_fold_change": "27.08"
+    },
+    {
+        "mutations": [
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "151.00",
+        "max_fold_change": "4 010.00"
+    },
+    {
+        "mutations": [
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "112.00",
+        "max_fold_change": "2 597.00"
+    },
+    {
+        "mutations": [
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "50.00",
+        "max_fold_change": "2 045.00"
+    },
+    {
+        "mutations": [
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "48.72",
+        "max_fold_change": "1 095.00"
+    },
+    {
+        "mutations": [
+            "NA:H275Y",
+            "NA:D344N"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "274 + 345",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "334.45",
+        "max_fold_change": "564.48"
+    },
+    {
+        "mutations": [
+            "NA:H275Y",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "274 + 294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "108.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H275Y",
+            "NA:N369K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274 + 368",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H275Y",
+            "NA:N386K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274 + 390",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "919.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H275Y",
+            "NA:R293K"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "274 + 292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "207.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H275Y",
+            "NA:S334N"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "274 + 336",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "415.00",
+        "max_fold_change": "658.00"
+    },
+    {
+        "mutations": [
+            "NA:H275Y/H"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "103.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H275Y/H"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "39.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:H276Y"
+        ],
+        "strain": "A(H7N3)",
+        "H3": "",
+        "N2": "274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "12 229.20",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117M",
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 119",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "20.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117M",
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "181.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117M",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "395.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117M",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "117 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "179.00",
+        "max_fold_change": "546.00"
+    },
+    {
+        "mutations": [
+            "NA:I117M",
+            "NA:H275Y",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 274\n+ 294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "121.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117M",
+            "NA:H275Y",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 274\n+ 294",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117M",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "52.45",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117V",
+            "NA:E119V"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 119",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "390.60",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "683.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "117 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 896.00",
+        "max_fold_change": "2 000.00"
+    },
+    {
+        "mutations": [
+            "NA:I117V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "117 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "523.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117V",
+            "NA:H275Y",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 274\n+ 294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "336.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117V",
+            "NA:H275Y",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 274\n+ 294",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I117V",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "117 + 294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "60.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I120V"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "122",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I203M"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "36.00",
+        "max_fold_change": "491.50"
+    },
+    {
+        "mutations": [
+            "NA:I203M",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "8 024.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I203M",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "3 340.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I203T"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "4.00",
+        "max_fold_change": "105.80"
+    },
+    {
+        "mutations": [
+            "NA:I203V",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 925.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I203V",
+            "NA:H255Y"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "2 106.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219K"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "13.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219K"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "32.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219M"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "18.30",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219R"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219R"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "37.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219R"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219R"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219T"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "20.32",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I219T"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "29.52",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I221L"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "65.00",
+        "max_fold_change": "190.00"
+    },
+    {
+        "mutations": [
+            "NA:I221L"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "70.00",
+        "max_fold_change": "72.00"
+    },
+    {
+        "mutations": [
+            "NA:I221L"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "4.00",
+        "max_fold_change": "13.00"
+    },
+    {
+        "mutations": [
+            "NA:I221N"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "92.00",
+        "max_fold_change": "141.00"
+    },
+    {
+        "mutations": [
+            "NA:I221N"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "82.00",
+        "max_fold_change": "223.00"
+    },
+    {
+        "mutations": [
+            "NA:I221N"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I221T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "1.90",
+        "max_fold_change": "18.00"
+    },
+    {
+        "mutations": [
+            "NA:I221T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "6.00",
+        "max_fold_change": "43.00"
+    },
+    {
+        "mutations": [
+            "NA:I221V"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "6.00",
+        "max_fold_change": "30.00"
+    },
+    {
+        "mutations": [
+            "NA:I221V/I",
+            "NA:K360E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "222+(358-\n359)",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": "7.00"
+    },
+    {
+        "mutations": [
+            "NA:I222L"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "9.00",
+        "max_fold_change": "18.00"
+    },
+    {
+        "mutations": [
+            "NA:I222T",
+            "NA:S331R"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "222 + 331",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": "31.00"
+    },
+    {
+        "mutations": [
+            "NA:I223K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": "39.00"
+    },
+    {
+        "mutations": [
+            "NA:I223K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "5 759.00",
+        "max_fold_change": "10 822.00"
+    },
+    {
+        "mutations": [
+            "NA:I223K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "5 343.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "7.10",
+        "max_fold_change": "11.00"
+    },
+    {
+        "mutations": [
+            "NA:I223M",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 943.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223M",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "400.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "13.00",
+        "max_fold_change": "58.00"
+    },
+    {
+        "mutations": [
+            "NA:I223R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "5.30",
+        "max_fold_change": "10.00"
+    },
+    {
+        "mutations": [
+            "NA:I223R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "7.00",
+        "max_fold_change": "12.00"
+    },
+    {
+        "mutations": [
+            "NA:I223R",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "6.00",
+        "max_fold_change": "17.00"
+    },
+    {
+        "mutations": [
+            "NA:I223R",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 647.00",
+        "max_fold_change": "16 307.00"
+    },
+    {
+        "mutations": [
+            "NA:I223R",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "7 500.00",
+        "max_fold_change": "17 347.00"
+    },
+    {
+        "mutations": [
+            "NA:I223R",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "2.00",
+        "max_fold_change": "27.00"
+    },
+    {
+        "mutations": [
+            "NA:I223T"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "6.40",
+        "max_fold_change": "15.00"
+    },
+    {
+        "mutations": [
+            "NA:I223T",
+            "NA:H274Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 377.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "584.00",
+        "max_fold_change": "971.00"
+    },
+    {
+        "mutations": [
+            "NA:I223V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 733.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "893.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223V",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "222 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 331.00",
+        "max_fold_change": "2 707.00"
+    },
+    {
+        "mutations": [
+            "NA:I223V",
+            "NA:H275Y",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "222 + 274\n+ 294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "300.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223V",
+            "NA:H275Y",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "222 + 274\n+ 294",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "13.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I223V",
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "222 + 294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "97.40",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I275T",
+            "NA:E276D"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "275 + 276",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "13.60",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I427T"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "427",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I427T"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "427",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I427T"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "427",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "56.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:I97V",
+            "NA:I294V"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "117 + 314",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "16.30",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:K/E272Q"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "273",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:K130N",
+            "NA:I203L",
+            "NA:S227N"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "150 + 222\n+ 246",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "77.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:K360E"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "(358-359)",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "165.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:M375K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "372",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N142S"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "142",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "53.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N142S"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "142",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "595.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N142S"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "142",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "40.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N142S"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "142",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "244.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N146K",
+            "NA:S219T",
+            "NA:A272V",
+            "NA:Del (245- 248)",
+            "M2:S31N"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "146 + 219\n+ 272 +\n(245-248)",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N146K",
+            "NA:S219T",
+            "NA:A272V",
+            "NA:Del (245- 248)",
+            "M2:S31N"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "146 + 219\n+ 272 +\n(245-248)",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "54.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N200S",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "199 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N220K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "221",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "29.28",
+        "max_fold_change": "62.64"
+    },
+    {
+        "mutations": [
+            "NA:N275S",
+            "M2:L26I",
+            "M2:S31N"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N275S"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "12.00",
+        "max_fold_change": "138.00"
+    },
+    {
+        "mutations": [
+            "NA:N275S"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "3.00",
+        "max_fold_change": "130.00"
+    },
+    {
+        "mutations": [
+            "NA:N275S"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "2.00",
+        "max_fold_change": "27.00"
+    },
+    {
+        "mutations": [
+            "NA:N294S"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "32.00",
+        "max_fold_change": "1 879.00"
+    },
+    {
+        "mutations": [
+            "NA:N294S"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "14.00",
+        "max_fold_change": "61.00"
+    },
+    {
+        "mutations": [
+            "NA:N294S"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": "31.00"
+    },
+    {
+        "mutations": [
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "40.20",
+        "max_fold_change": "208.00"
+    },
+    {
+        "mutations": [
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "63.60",
+        "max_fold_change": "280.00"
+    },
+    {
+        "mutations": [
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N295S"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "294",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "2.50",
+        "max_fold_change": "12.00"
+    },
+    {
+        "mutations": [
+            "NA:N325K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "325",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "19.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:N329K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "329",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": "14.00"
+    },
+    {
+        "mutations": [
+            "NA:N329K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "329",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "8.10",
+        "max_fold_change": "11.00"
+    },
+    {
+        "mutations": [
+            "NA:N44S",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "46 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:P139S"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "141",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "3.00",
+        "max_fold_change": "142.00"
+    },
+    {
+        "mutations": [
+            "NA:P139S"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "141",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "10.30",
+        "max_fold_change": "68.00"
+    },
+    {
+        "mutations": [
+            "NA:P139S"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "141",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "12.00",
+        "max_fold_change": "9 091.00"
+    },
+    {
+        "mutations": [
+            "NA:P139S"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "141",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "2.00",
+        "max_fold_change": "160.00"
+    },
+    {
+        "mutations": [
+            "NA:Q116L"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "15.80",
+        "max_fold_change": "26.00"
+    },
+    {
+        "mutations": [
+            "NA:Q116L"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "350.00",
+        "max_fold_change": "364.83"
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "HRI",
+        "min_fold_change": "114.00",
+        "max_fold_change": "130.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "42.00",
+        "max_fold_change": "126.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "0.20",
+        "max_fold_change": "13.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H11N9)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "53.90",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "143.00",
+        "max_fold_change": "343.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "64.33",
+        "max_fold_change": "119.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H11N9)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "121.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "185.00",
+        "max_fold_change": "749.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "36.00",
+        "max_fold_change": "327.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": "53.30"
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151E"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "27.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151E"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "18.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151E"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "25.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151\n+ 274",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151\n+ 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "356.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151\n+ 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "2 300.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151\n+ 274",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151\n+ 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "356.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:D151N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 151\n+ 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "2 300.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "198.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 805.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "136 + 274",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "15.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K",
+            "NA:Q136Q",
+            "NA:D151G",
+            "NA:D151D"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "136 + 151",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "42.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136K/R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "33.00",
+        "max_fold_change": "42.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K/R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "143.00",
+        "max_fold_change": "234.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136K/R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "185.00",
+        "max_fold_change": "200.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136L"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "12.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136L"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "13.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136L"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "32.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136L"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q136R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "33.00",
+        "max_fold_change": "659.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "234.00",
+        "max_fold_change": "682.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "200.00",
+        "max_fold_change": "810.00"
+    },
+    {
+        "mutations": [
+            "NA:Q136R/ Q"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "20.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Q138K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "140",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "16.00",
+        "max_fold_change": "17.00"
+    },
+    {
+        "mutations": [
+            "NA:Q138R"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "140",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "16.00",
+        "max_fold_change": "91.00"
+    },
+    {
+        "mutations": [
+            "NA:Q138R"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "140",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "2.00",
+        "max_fold_change": "15.40"
+    },
+    {
+        "mutations": [
+            "NA:Q313R",
+            "NA:I427T"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "313 + 427",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "11.00",
+        "max_fold_change": "16.00"
+    },
+    {
+        "mutations": [
+            "NA:Q313R",
+            "NA:I427T"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "313 + 427",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": "43.00"
+    },
+    {
+        "mutations": [
+            "NA:Q313R",
+            "NA:I427T"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "313 + 427",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "3.00",
+        "max_fold_change": "47.00"
+    },
+    {
+        "mutations": [
+            "NA:R150K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "152",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "HRI",
+        "min_fold_change": "150.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R150K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "152",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "38.00",
+        "max_fold_change": "252.00"
+    },
+    {
+        "mutations": [
+            "NA:R150K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "152",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "134.80",
+        "max_fold_change": "2 869.00"
+    },
+    {
+        "mutations": [
+            "NA:R150K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "152",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "5.00",
+        "max_fold_change": "1 000.00"
+    },
+    {
+        "mutations": [
+            "NA:R150K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "152",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "473.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R151W"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "152",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R151W"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "152",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "11.40",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R152K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "152",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.90",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R194G",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "193 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R222Q",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "221 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 671.44",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R222Q",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "221 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "587.50",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R224K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "224",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "4 000.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R224K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "224",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "50.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R289K"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "13.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R289K"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "9.00",
+        "max_fold_change": "35.00"
+    },
+    {
+        "mutations": [
+            "NA:R289K"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "9 631.00",
+        "max_fold_change": "132 271.68"
+    },
+    {
+        "mutations": [
+            "NA:R289K"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "412.50",
+        "max_fold_change": "2 067.90"
+    },
+    {
+        "mutations": [
+            "NA:R289K"
+        ],
+        "strain": "A(H7N9)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "21.00",
+        "max_fold_change": "55.00"
+    },
+    {
+        "mutations": [
+            "NA:R290K"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "6 175.00",
+        "max_fold_change": "44 326.40"
+    },
+    {
+        "mutations": [
+            "NA:R290K"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "414.80",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R290K"
+        ],
+        "strain": "A(H7N7)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "7.00",
+        "max_fold_change": "21.10"
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "A(H2N2)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 600.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "A(H4N2)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "970.00",
+        "max_fold_change": "1 500.00"
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "300.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "8 400.00",
+        "max_fold_change": "110 000.00"
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "A(H2N2)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "80.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "A(H4N2)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "43.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "502.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "14.00",
+        "max_fold_change": "719.00"
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "28.50",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R292K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "1.40",
+        "max_fold_change": "134.00"
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(11N6)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "13.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(11N6)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "16 155.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "33.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(H2N3)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "17 959.70",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(H2N3)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "6 838.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(H2N3)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "41.10",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(11N6)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "21.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(H2N3)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "22.50",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R293K"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "292",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.80",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R371K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "371",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "45.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R371K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "371",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "15.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R374K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "371",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "65.00",
+        "max_fold_change": "407.00"
+    },
+    {
+        "mutations": [
+            "NA:R374K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "371",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "352.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:R374K"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "371",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "29.00",
+        "max_fold_change": "145.00"
+    },
+    {
+        "mutations": [
+            "NA:S110F"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "110",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "17.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:S227N"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "24.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:S245N",
+            "NA:S247P"
+        ],
+        "strain": "A(H3N2)v",
+        "H3": "",
+        "N2": "245 + 247",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "25.00",
+        "max_fold_change": "40.00"
+    },
+    {
+        "mutations": [
+            "NA:S245N",
+            "NA:S247P"
+        ],
+        "strain": "A(H3N2)v",
+        "H3": "",
+        "N2": "245 + 247",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "66.00",
+        "max_fold_change": "235.00"
+    },
+    {
+        "mutations": [
+            "NA:S247G"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "15.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:S247N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "246 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "5 880.00",
+        "max_fold_change": "7 073.00"
+    },
+    {
+        "mutations": [
+            "NA:S247N",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "246 + 274",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "334.00",
+        "max_fold_change": "704.00"
+    },
+    {
+        "mutations": [
+            "NA:S247P"
+        ],
+        "strain": "A(H3N2)v",
+        "H3": "",
+        "N2": "247",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "42.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:S247P"
+        ],
+        "strain": "A(H3N2)v",
+        "H3": "",
+        "N2": "247",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "266.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:S247R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Laninamivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "90.00",
+        "max_fold_change": "122.00"
+    },
+    {
+        "mutations": [
+            "NA:S247R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "36.00",
+        "max_fold_change": "37.00"
+    },
+    {
+        "mutations": [
+            "NA:S247R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI/HRI",
+        "min_fold_change": "94.00",
+        "max_fold_change": "115.00"
+    },
+    {
+        "mutations": [
+            "NA:S247R"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "246",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "51.00",
+        "max_fold_change": "54.00"
+    },
+    {
+        "mutations": [
+            "NA:S249G"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "250",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.60",
+        "max_fold_change": "29.00"
+    },
+    {
+        "mutations": [
+            "NA:S331R"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "331",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": "11.00"
+    },
+    {
+        "mutations": [
+            "NA:T106I",
+            "NA:P165L"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "(110-111)\n+ 165",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:T106P"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "(110-111)",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:T146I"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "148",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "145.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:T148K"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "148",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:T157I",
+            "NA:D214G"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "156 + 213",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:T43A+P1 24T"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "40+136",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "96.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:V116A"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "116",
+        "antiviral_resistance": "A-315675",
+        "resistance_level": "RI",
+        "min_fold_change": "14.00",
+        "max_fold_change": "18.00"
+    },
+    {
+        "mutations": [
+            "NA:V215I",
+            "NA:S331R"
+        ],
+        "strain": "A(H3N2)",
+        "H3": "",
+        "N2": "215 + 331",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "10.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:V234M",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "233 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:V241I",
+            "NA:H275Y"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "240 + 274",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:V96A"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "116",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "3.20",
+        "max_fold_change": "18.00"
+    },
+    {
+        "mutations": [
+            "NA:V96A"
+        ],
+        "strain": "A(H5N1)",
+        "H3": "",
+        "N2": "116",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "5.90",
+        "max_fold_change": "63.00"
+    },
+    {
+        "mutations": [
+            "NA:Y142H",
+            "NA:G145R"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "144 + 147",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "HRI",
+        "min_fold_change": "487.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Y142H+G 145R"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "144+147",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "RI",
+        "min_fold_change": "5.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "NA:Y155H"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "155",
+        "antiviral_resistance": "Oseltamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "3.19",
+        "max_fold_change": "123.00"
+    },
+    {
+        "mutations": [
+            "NA:Y155H"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "155",
+        "antiviral_resistance": "Peramivir",
+        "resistance_level": "NI/RI",
+        "min_fold_change": "4.28",
+        "max_fold_change": "37.00"
+    },
+    {
+        "mutations": [
+            "NA:Y155H"
+        ],
+        "strain": "A(H1N1)",
+        "H3": "",
+        "N2": "155",
+        "antiviral_resistance": "Zanamivir",
+        "resistance_level": "NI/RI/HRI",
+        "min_fold_change": "6.37",
+        "max_fold_change": "555.00"
+    },
+    {
+        "mutations": [
+            "M2:A30S"
+        ],
+        "strain": "Influenza (subtypes\nmentioned in\narticles: A(H1N1),\nA(H1N2), A(H5N1),\nA(H7N2), A(H9N2))",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "332.00",
+        "max_fold_change": "441.00"
+    },
+    {
+        "mutations": [
+            "M2:A30T"
+        ],
+        "strain": "Influenza (subtypes\nmentioned in\narticles: A(H1N1),\nA(H1N1)pdm09,\nA(H3N2), A(H2N2),\nA(H5N1) A(H7N7),\nA(H9N2), A(H6N1))",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "3 300.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "M2:BM2"
+        ],
+        "strain": "B",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "M2:G34E"
+        ],
+        "strain": "Influenza (subtypes\nmentioned in\narticles: A(H1N1),\nA(H3N2))",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "2 949.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "M2:L26F"
+        ],
+        "strain": "Influenza (subtypes\nmentioned in\narticles: A(H1N2),\nA(H3N2), A(H5N1),\nA(H5N2), A(H7N3),\nA(H9N2), A(H4N2))",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "154.00",
+        "max_fold_change": "2 000.00"
+    },
+    {
+        "mutations": [
+            "M2:L26I",
+            "M2:S31N"
+        ],
+        "strain": "Influenza (subtypes\nmentioned in\narticles: A(H1N1),\nA(H1N2),\nA(H1N1)pdm09,\nA(H5N1))",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "M2:S31N"
+        ],
+        "strain": "Influenza (subtypes\nmentioned in",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "119.50",
+        "max_fold_change": "200.00"
+    },
+    {
+        "mutations": [
+            "M2:V27A"
+        ],
+        "strain": "articles: A(H1N1),\nInfluenza (subtypes\nmentioned in\narticles: A(H1N1),\nA(H1N2),\nA(H1N1)pdm09,\nA(H3N2), A(H5N1),\nA(H2N2), A(H7N2),\nA(H7N9), A(H7N7),\nA(H6N1), A(H11N3))",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "1 000.00",
+        "max_fold_change": "1 829.00"
+    },
+    {
+        "mutations": [
+            "M2:V27A",
+            "M2:S31N"
+        ],
+        "strain": "Influenza (subtypes\nmentioned in\narticles: A(H1N1),\nA(H1N2),",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "154.00",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "M2:V28A",
+            "M2:S31N"
+        ],
+        "strain": "Influenza (subtypes\nmentioned in\narticles: A(H1N1),\nA(H1N2),",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    },
+    {
+        "mutations": [
+            "M2:V28I",
+            "M2:S31N"
+        ],
+        "strain": "A(H1N1)pdm09",
+        "H3": "",
+        "N2": "",
+        "antiviral_resistance": "Adamantanes",
+        "resistance_level": "HRI",
+        "min_fold_change": "",
+        "max_fold_change": ""
+    }
+]

@@ -1,0 +1,619 @@
+[
+    {
+        "strain": "",
+        "mutation_PA": [
+            "Amino acid\nsubstitution"
+        ],
+        "baloxavir_resistance_level": "Baloxavir susceptibility by\nphenotypic assay\n(EC50 fold-change)a",
+        "source_virus": "Source of virusesb",
+        "references": [
+            "References"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "E23K"
+        ],
+        "baloxavir_resistance_level": "5",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "A36V"
+        ],
+        "baloxavir_resistance_level": "4",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "I38F"
+        ],
+        "baloxavir_resistance_level": "8\u221211",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "I38L"
+        ],
+        "baloxavir_resistance_level": "6",
+        "source_virus": "RG",
+        "references": [
+            "(2)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "I38M"
+        ],
+        "baloxavir_resistance_level": "13",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "I38N"
+        ],
+        "baloxavir_resistance_level": "24",
+        "source_virus": "RG",
+        "references": [
+            "(2,",
+            "3)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "I38S"
+        ],
+        "baloxavir_resistance_level": "12",
+        "source_virus": "RG",
+        "references": [
+            "(2)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "I38T"
+        ],
+        "baloxavir_resistance_level": "22\u221254",
+        "source_virus": "RG; Cell/BXA",
+        "references": [
+            "(1,",
+            "4,",
+            "5)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "I38V"
+        ],
+        "baloxavir_resistance_level": "2",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "E119D"
+        ],
+        "baloxavir_resistance_level": "7",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)",
+        "mutation_PA": [
+            "E198K"
+        ],
+        "baloxavir_resistance_level": "3",
+        "source_virus": "RG",
+        "references": [
+            "(6)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "E23G"
+        ],
+        "baloxavir_resistance_level": "4\u22127",
+        "source_virus": "Sur; RG",
+        "references": [
+            "(7-10)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "E23K"
+        ],
+        "baloxavir_resistance_level": "7\u221213",
+        "source_virus": "Sur/No; RG",
+        "references": [
+            "(9-11)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "E23R"
+        ],
+        "baloxavir_resistance_level": "13",
+        "source_virus": "RG",
+        "references": [
+            "(12)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "K34R"
+        ],
+        "baloxavir_resistance_level": "2\u22125",
+        "source_virus": "Sur",
+        "references": [
+            "(9)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "A37T"
+        ],
+        "baloxavir_resistance_level": "5",
+        "source_virus": "Sur/BXA",
+        "references": [
+            "(13)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "I38F"
+        ],
+        "baloxavir_resistance_level": "7\u221217",
+        "source_virus": "RG",
+        "references": [
+            "(14,",
+            "15)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "I38L"
+        ],
+        "baloxavir_resistance_level": "7\u221212",
+        "source_virus": "Sur/No",
+        "references": [
+            "(7,",
+            "8,",
+            "16,",
+            "17)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "I38M"
+        ],
+        "baloxavir_resistance_level": "7\u2212 9",
+        "source_virus": "RG; Mice/BXA",
+        "references": [
+            "(14,",
+            "15,",
+            "18)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "I38S"
+        ],
+        "baloxavir_resistance_level": "31\u2212112",
+        "source_virus": "Cell/BXA; Clin/BXA;\nSur/BXA",
+        "references": [
+            "(9,",
+            "11,",
+            "16,",
+            "19)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "I38T"
+        ],
+        "baloxavir_resistance_level": "11\u2212124",
+        "source_virus": "RG; Cell/BXA; Clin/BXA;\nSur/BXA",
+        "references": [
+            "(9,",
+            "11,",
+            "14-16,",
+            "20,",
+            "21)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "I38V"
+        ],
+        "baloxavir_resistance_level": "2\u22124",
+        "source_virus": "Sur/No",
+        "references": [
+            "(7,",
+            "9)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "E198K"
+        ],
+        "baloxavir_resistance_level": "2",
+        "source_virus": "RG",
+        "references": [
+            "(6)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "E199D"
+        ],
+        "baloxavir_resistance_level": "3",
+        "source_virus": "RG",
+        "references": [
+            "(17)"
+        ]
+    },
+    {
+        "strain": "A(H1N1)pdm09",
+        "mutation_PA": [
+            "E199G"
+        ],
+        "baloxavir_resistance_level": "1\u22124",
+        "source_virus": "Mice/BXA; Sur",
+        "references": [
+            "(9,",
+            "18)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "L28P"
+        ],
+        "baloxavir_resistance_level": "1\u22123",
+        "source_virus": "RG; Sur",
+        "references": [
+            "(1,",
+            "9)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "E23Gc"
+        ],
+        "baloxavir_resistance_level": "2\u22123",
+        "source_virus": "RG",
+        "references": [
+            "(2,",
+            "3,",
+            "10)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "E23K"
+        ],
+        "baloxavir_resistance_level": "6",
+        "source_virus": "RG",
+        "references": [
+            "(1,",
+            "10)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "E23R"
+        ],
+        "baloxavir_resistance_level": "19",
+        "source_virus": "RG",
+        "references": [
+            "(12)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "K34R"
+        ],
+        "baloxavir_resistance_level": "4",
+        "source_virus": "Sur",
+        "references": [
+            "(9)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "A36V"
+        ],
+        "baloxavir_resistance_level": "6",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "A37T"
+        ],
+        "baloxavir_resistance_level": "8",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "I38F"
+        ],
+        "baloxavir_resistance_level": "16\u221220",
+        "source_virus": "RG",
+        "references": [
+            "(1,",
+            "14,",
+            "15)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "I38L"
+        ],
+        "baloxavir_resistance_level": "2\u22128",
+        "source_virus": "RG; Sur",
+        "references": [
+            "(2,",
+            "9)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "I38M"
+        ],
+        "baloxavir_resistance_level": "4\u221224",
+        "source_virus": "RG; Sur/No; Sur/BXA",
+        "references": [
+            "(1,",
+            "3,",
+            "7-9,",
+            "14-16)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "I38N"
+        ],
+        "baloxavir_resistance_level": "10",
+        "source_virus": "RG",
+        "references": [
+            "(2)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "I38S"
+        ],
+        "baloxavir_resistance_level": "6",
+        "source_virus": "RG",
+        "references": [
+            "(2)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "I38T"
+        ],
+        "baloxavir_resistance_level": "20\u221214",
+        "source_virus": "RG; Clin/BXA; Cell/No;\nSur/BXA; Sur/No",
+        "references": [
+            "(1,",
+            "3,",
+            "9,",
+            "15,",
+            "16,",
+            "19-",
+            "26)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "I38V"
+        ],
+        "baloxavir_resistance_level": "1\u22122",
+        "source_virus": "RG; Sur/No",
+        "references": [
+            "(1,",
+            "7)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "E119D"
+        ],
+        "baloxavir_resistance_level": "5",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "E198K"
+        ],
+        "baloxavir_resistance_level": "6",
+        "source_virus": "RG",
+        "references": [
+            "(6)"
+        ]
+    },
+    {
+        "strain": "A(H3N2)",
+        "mutation_PA": [
+            "E199G"
+        ],
+        "baloxavir_resistance_level": "5",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "E23K"
+        ],
+        "baloxavir_resistance_level": "1\u22123",
+        "source_virus": "RG",
+        "references": [
+            "(1,",
+            "27)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "M34I"
+        ],
+        "baloxavir_resistance_level": "1",
+        "source_virus": "Sur",
+        "references": [
+            "(9)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "F36Vd"
+        ],
+        "baloxavir_resistance_level": "1",
+        "source_virus": "RG",
+        "references": [
+            "(1)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "I38F"
+        ],
+        "baloxavir_resistance_level": "2\u22128",
+        "source_virus": "RG",
+        "references": [
+            "(1,",
+            "15)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "I38M"
+        ],
+        "baloxavir_resistance_level": "2\u22128",
+        "source_virus": "RG",
+        "references": [
+            "(1,",
+            "14,",
+            "15,",
+            "27)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "I38T"
+        ],
+        "baloxavir_resistance_level": "5\u221215",
+        "source_virus": "RG",
+        "references": [
+            "(1,",
+            "14,",
+            "15,",
+            "27)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "I38V"
+        ],
+        "baloxavir_resistance_level": "1\u22122",
+        "source_virus": "Sur/No",
+        "references": [
+            "(7,",
+            "9)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "E120De"
+        ],
+        "baloxavir_resistance_level": "2-3",
+        "source_virus": "RG",
+        "references": [
+            "(1,",
+            "28)"
+        ]
+    },
+    {
+        "strain": "B",
+        "mutation_PA": [
+            "G199R"
+        ],
+        "baloxavir_resistance_level": "2",
+        "source_virus": "RG",
+        "references": [
+            "(17)"
+        ]
+    }
+]
